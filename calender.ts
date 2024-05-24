@@ -1,6 +1,6 @@
 import {createClient} from '@supabase/supabase-js'
 
-const supabase=createClient('https://mmomwaveurbmtooskpvw.supabase.co','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1tb213YXZldXJibXRvb3NrcHZ3Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcxNjUzNjAyNiwiZXhwIjoyMDMyMTEyMDI2fQ.TpeQyq-6INqiQ54VcG604AGo5Or-MVx4plxwEJOdvZI');
+const supabase=createClient('https://mmomwaveurbmtooskpvw.supabase.co','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1tb213YXZldXJibXRvb3NrcHZ3Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcxNjUzNjAyNiwiZXhwIjoyMDMyMTEyMDI2fQ.TpeQyq-6INqiQ54VcG604AGo5Or-MVx4plxwEJOdvZI'); // second argument is service role key
 
 async function fetch(){
  try
